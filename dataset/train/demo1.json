@@ -1,0 +1,359 @@
+{
+  "download (1).jpg7297": {
+    "filename": "download (1).jpg",
+    "size": 7297,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            115,
+            101,
+            32,
+            124,
+            202,
+            229,
+            116,
+            114
+          ],
+          "all_points_y": [
+            4,
+            91,
+            123,
+            190,
+            140,
+            29,
+            4,
+            9
+          ]
+        },
+        "region_attributes": {
+          "names": "laptop"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "download (2).jpg8631": {
+    "filename": "download (2).jpg",
+    "size": 8631,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            11,
+            18,
+            1,
+            3,
+            157,
+            157
+          ],
+          "all_points_y": [
+            7,
+            92,
+            151,
+            159,
+            157,
+            3
+          ]
+        },
+        "region_attributes": {
+          "names": "laptop"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            230,
+            161,
+            164,
+            251
+          ],
+          "all_points_y": [
+            78,
+            82,
+            157,
+            156
+          ]
+        },
+        "region_attributes": {
+          "names": "tab"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            251,
+            278,
+            293,
+            256,
+            244
+          ],
+          "all_points_y": [
+            106,
+            107,
+            154,
+            155,
+            106
+          ]
+        },
+        "region_attributes": {
+          "names": "phone"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "download (3).jpg6478": {
+    "filename": "download (3).jpg",
+    "size": 6478,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            10,
+            85,
+            104,
+            171,
+            142,
+            40
+          ],
+          "all_points_y": [
+            101,
+            93,
+            151,
+            165,
+            220,
+            198
+          ]
+        },
+        "region_attributes": {
+          "names": "laptop"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            106,
+            101,
+            195,
+            203,
+            214
+          ],
+          "all_points_y": [
+            22,
+            89,
+            116,
+            113,
+            10
+          ]
+        },
+        "region_attributes": {
+          "names": "tab"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "download (4).jpg5101": {
+    "filename": "download (4).jpg",
+    "size": 5101,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 27,
+          "width": 102,
+          "height": 122
+        },
+        "region_attributes": {
+          "names": "tab"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            182,
+            201,
+            290,
+            171,
+            104,
+            47
+          ],
+          "all_points_y": [
+            7,
+            81,
+            114,
+            170,
+            138,
+            0
+          ]
+        },
+        "region_attributes": {
+          "names": "laptop"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "download (5).jpg6465": {
+    "filename": "download (5).jpg",
+    "size": 6465,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            27,
+            40,
+            107,
+            238,
+            158,
+            145
+          ],
+          "all_points_y": [
+            22,
+            127,
+            179,
+            124,
+            100,
+            18
+          ]
+        },
+        "region_attributes": {
+          "names": "laptop"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            162,
+            150,
+            24,
+            36
+          ],
+          "all_points_y": [
+            92,
+            15,
+            21,
+            112
+          ]
+        },
+        "region_attributes": {
+          "names": "tab"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "download.jpg5529": {
+    "filename": "download.jpg",
+    "size": 5529,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            92,
+            210,
+            216,
+            288,
+            288,
+            171,
+            101
+          ],
+          "all_points_y": [
+            6,
+            12,
+            93,
+            111,
+            117,
+            153,
+            117
+          ]
+        },
+        "region_attributes": {
+          "names": "laptop"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            12,
+            132,
+            118,
+            7
+          ],
+          "all_points_y": [
+            32,
+            38,
+            140,
+            123
+          ]
+        },
+        "region_attributes": {
+          "names": "tab"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "images.jpg13706": {
+    "filename": "images.jpg",
+    "size": 13706,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            20,
+            140,
+            159,
+            174,
+            62
+          ],
+          "all_points_y": [
+            40,
+            13,
+            90,
+            144,
+            175
+          ]
+        },
+        "region_attributes": {
+          "names": "phone"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            169,
+            225,
+            208,
+            150
+          ],
+          "all_points_y": [
+            57,
+            69,
+            151,
+            136
+          ]
+        },
+        "region_attributes": {
+          "names": "phone"
+        }
+      }
+    ],
+    "file_attributes": {}
+  }
+}
